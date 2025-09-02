@@ -1,2 +1,17 @@
 # wc-tool
 My version of the wc tool
+Git is decentralized.
+distributed 
+version control 
+collaboration 
+branching 
+remote repos
+staging area 
+speed
+extensive tooling
+open source 
+
+What Is GitHub?
+Web-based platform used for version control and collaboration. It hosts repositories and provides an interface to manage your code and do many other things.
+Github offers collaboration features like bug tracking, feature requests, task management & wikis.
+Git is the VCS and GitHub hosts repositories. There are many other platforms that can host Git repos, such as Gitlab & BitBucket.
