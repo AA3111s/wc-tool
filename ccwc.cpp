@@ -16,7 +16,7 @@ size_t countBytes(std::istream& input){
 
 int main(int argc, char* argv[]){
     if(argc != 3){
-        std::cerr << "usage: " << argv[0] << "-c <filename> \n";
+        std::cerr << "usage: " << argv[0] << " -c <filename> \n";
         return 1;
     }
     
@@ -28,7 +28,7 @@ int main(int argc, char* argv[]){
 
     std::string filename = argv[2];
 
-    std::ifstream myFile(filename, std::ios::in | std::ios::binary);
+    std::ifstream myFile(filename, std::ios::binary);
 
     if(!myFile.is_open()){
         //checks if the file opened successfully
