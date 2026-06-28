@@ -28,7 +28,7 @@ int main(int argc, char* argv[]){
 
     std::string filename = argv[2];
 
-    std::ifstream myFile(filename, std::ios::binary);
+    std::ifstream myFile(filename, std::ios::in | std::ios::binary);
 
     if(!myFile.is_open()){
         //checks if the file opened successfully
