@@ -1,0 +1,3 @@
+https://www.eecs.umich.edu/courses/eecs380/HANDOUTS/cppBinaryFileIO-1.html
+
+https://en.cppreference.com/cpp/io/basic_ifstream
